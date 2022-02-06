@@ -9,4 +9,4 @@
 
 ---
 
-[![Sideshow's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1DESHOW)](https://github.com/S1DESHOW/github-readme-stats)
+![Sideshow's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1DESHOW&show_icons=true&theme=radical)
