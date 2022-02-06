@@ -1,4 +1,4 @@
-### Hi there, I'm Rob - aka [S1DESHOW][website] 👋
+### Hi there, I'm Rob - aka S1DESHOW👋
 
 ## I'm a engineer by trade but I am interested in changing my vocation!
 - 🔭 I’m currently working on a [VS Code Course][website]!
