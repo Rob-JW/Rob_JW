@@ -7,6 +7,9 @@
 - 🥅 2023 Goals: Submit the first module for the JHUB coding scheme and build my first website project.
 - ⚡ I have a dog called Harry.
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Sideshow/30-nites-of-code)  
+  ![@Sideshow #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Sideshow)
 ---
 
 ![Sideshow's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1DESHOW&show_icons=true&theme=merko)
