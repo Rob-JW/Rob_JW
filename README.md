@@ -1,10 +1,9 @@
-### Hi there, I'm Rob - aka Rob_JW👋
+### Hi there, I'm Rob - aka Rob_JW 👋
 
-## I'm an automotive engineer with over 22 years experience. I am upskilling in Cybersecurity and coding in preparation for my transition into a new career!
+## I'm a military automotive engineer with 24 years experience. I'm upskilling in cybersecurity and coding ahead of my transition into a new career.
 
-- ⛬ I have recently passed the CompTIA Security+ certification and the ISO 9001 Lead Auditor course in preparation for my next role.
-- 🎯 I am now focusing on the CREST Practitioner Security Analyst (CPSA). Optima-IT delivers the training.
-- 💾 I’m looking to develop my coding skills and build a portfolio showcasing my ability to prospective employers/clients. 
-- 📅 2026 Goals: Achieve Incorporated Engineer (I Eng) with the IET. Pass the CPSA and finish my portfolio website.
+- ⛬ Since starting this journey I've completed CompTIA Security+, ISO 9001 Lead Auditor, Lean Six Sigma Green Belt, and a City & Guilds Graduateship (degree-equivalent).
+- 🎯 Currently studying for the CREST Practitioner Security Analyst (CPSA) — exam booked for July 2026. Training delivered by Optima-IT.
+- 💾 I'm developing my coding skills and building a portfolio to showcase my work to prospective employers and clients.
+- 📅 2026 goals: Pass the CPSA, achieve Incorporated Engineer (IEng) status with the IET, and complete my portfolio site.
 - 🐕 I have a dog called Bo.
-  
